@@ -1,7 +1,5 @@
 #  EC2 Apache Multi-Tenant-Hosting Automation
 
-### A Lightweight Hosting Environment for Students & Classrooms
-
 ------------------------------------------------------------------------
 
 ## 📖 Project Overview
