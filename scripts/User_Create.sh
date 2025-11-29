@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Welcome to the script, i have added commands so that everybody 
+# Welcome to the script, i have added comments so that everybody 
 # including beginners could understand the script easily
  
 
